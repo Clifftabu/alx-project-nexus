@@ -38,7 +38,7 @@ The goal is to build a backend for an e-commerce product catalog with features s
 | Tech | Purpose |
 |------|---------|
 | **Django** | Web backend framework |
-| **PostgreSQL** | Relational database |
+| **MySQL** | Relational database |
 | **JWT** | Authentication |
 | **Swagger/OpenAPI** | API documentation |
 | **Git** | Version control |
