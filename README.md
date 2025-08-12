@@ -42,7 +42,7 @@ The goal is to build a backend for an e-commerce product catalog with features s
 | **JWT** | Authentication |
 | **Swagger/OpenAPI** | API documentation |
 | **Git** | Version control |
-| **Jenkins** | CI/CD (optional enhancement) |
-| **Datadog** | Monitoring & performance metrics (optional) |
+| **Jenkins** | CI/CD (enhancement) |
+| **Railway/Ngrok** | Deployment |
 
 
