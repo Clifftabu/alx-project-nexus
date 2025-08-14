@@ -37,6 +37,7 @@ It supports product catalogue management , orders, payments, carts and authentic
 | **MySQL** | Relational database |
 | **JWT(SimpleJWT)** | Authentication |
 | **Swagger/OpenAPI** | API documentation |
+<<<<<<< HEAD
 | **Ngrok/Railway | Hosting and Testing |
 | **GitHub** | Version control |
 
@@ -47,5 +48,10 @@ It supports product catalogue management , orders, payments, carts and authentic
 
 
 
+=======
+| **Git** | Version control |
+| **Jenkins** | CI/CD (enhancement) |
+| **Railway/Ngrok** | Deployment |
+>>>>>>> ec4ac9cf35f8acebe4776966ce12ae35664c2d98
 
 
